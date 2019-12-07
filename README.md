@@ -2,8 +2,9 @@
 This is a learning project I did individually in 2017
 
 ## Demo
-Demo can be find [Practice_Tower-Defense/Demo](https://github.com/Plutoyun/Practice_Tower-Defense/tree/master/Demo) 
-The demo video is published [here](https://youtu.be/HS8JYYkpOu8)
+The demo video is published [here](https://youtu.be/HS8JYYkpOu8).
+Demo can be find [Practice_Tower-Defense/Demo](https://github.com/Plutoyun/Practice_Tower-Defense/tree/master/Demo).
+
 
 ## Infos
 
