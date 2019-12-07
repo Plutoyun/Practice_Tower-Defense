@@ -1,0 +1,87 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\study\大四\实习\MobaTest\test01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\study\大四\实习\MobaTest\test01_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\study\大四\实习\MobaTest\test01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.977895 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.978016 ms
+
+Unloading 145 unused Assets to reduce memory usage. Loaded Objects now: 40689.
+Total: 14.538817 ms (FindLiveObjects: 1.956690 ms CreateObjectMapping: 0.699394 ms MarkObjects: 5.127789 ms  DeleteObjects: 6.753477 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.241009 ms
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 4465.
+Total: 6.258989 ms (FindLiveObjects: 0.300944 ms CreateObjectMapping: 0.100437 ms MarkObjects: 1.352601 ms  DeleteObjects: 4.503906 ms)
+
+Acid Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetTarget
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Level Turret Upgrated! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetTarget
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Second Level Turret Upgrated! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Laser Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build! 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scene 'levelSelector' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: fe38 -> priority: 1 
+  Thread -> id: fadc -> priority: 1 
